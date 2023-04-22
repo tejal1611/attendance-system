@@ -1,7 +1,7 @@
-[09:44, 4/20/2023] Pragati Patil: from tkinter import *
+from tkinter import *
 from tkinter import ttk
 from PIL import Image, ImageTk
-
+from student import Student
 
 class Face_Recognition_System:
     def _init_(self, root):
